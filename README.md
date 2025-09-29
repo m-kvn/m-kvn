@@ -20,8 +20,8 @@
 
 | Project | Description |
 | ------- | ----------- |
-| [docling](https://github.com/mkavinkumar1/docling) | Tools to supercharge your documentation workflow. |
-| [litellm](https://github.com/mkavinkumar1/litellm) | Making Large Language Models accessible & lightweight. |
+| [NostalgiaForInfinity](https://github.com/mkavinkumar1/NostalgiaForInfinity) | Trading strategy for the Freqtrade. |
+| [OpenDevin](https://github.com/mkavinkumar1/OpenDevin) | AI Software Enginner. |
 | [pdf-template-sculptor](https://github.com/mkavinkumar1/pdf-template-sculptor) | Effortlessly craft and modify PDF templates. |
 | [test](https://github.com/mkavinkumar1/test) | My playground for testing and learning new things. |
 
