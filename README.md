@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/kavinkumar-m-76a11313b"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://www.linkedin.com/in/mkvn"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://huggingface.co/mkvn"><img src="https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-FFD21E?style=flat-square&logoColor=black" alt="Hugging Face" /></a>
   <a href="https://doi.org/10.5281/zenodo.21856981"><img src="https://img.shields.io/badge/DOI-10.5281%2Fzenodo.21856981-1682D4?style=flat-square" alt="Zenodo DOI" /></a>
   <a href="mailto:mkavinkumar1@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
@@ -108,7 +108,7 @@ sub-2-bit codec, raw OLMoE-1B-7B routing traces, and every measurement artefact 
 <sub>Panels regenerate daily via <a href="https://github.com/lowlighter/metrics">lowlighter/metrics</a>.</sub>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/kavinkumar-m-76a11313b">LinkedIn</a> ·
+  <a href="https://www.linkedin.com/in/mkvn">LinkedIn</a> ·
   <a href="https://huggingface.co/mkvn">Hugging Face</a> ·
   <a href="https://zenodo.org/records/21856981">Zenodo</a> ·
   <a href="mailto:mkavinkumar1@gmail.com">mkavinkumar1@gmail.com</a>
