@@ -1,4 +1,4 @@
-<!-- Profile README for mkavinkumar1 -->
+<!-- Profile README for m-kvn -->
 
 <h1 align="center">Kavinkumar M</h1>
 
@@ -54,7 +54,7 @@ sub-2-bit codec, raw OLMoE-1B-7B routing traces, and every measurement artefact 
 
 | Project | What it is |
 | --- | --- |
-| **[ssh-mcp](https://github.com/mkavinkumar1/ssh-mcp)** | My own MCP server for remote development over SSH — files, commands, search, git, and binary-safe SFTP transfer via Paramiko. Cross-platform, Python. |
+| **[ssh-mcp](https://github.com/m-kvn/ssh-mcp)** | My own MCP server for remote development over SSH — files, commands, search, git, and binary-safe SFTP transfer via Paramiko. Cross-platform, Python. |
 | **CHRIS** *(private, @ NeuralMetrics)* | Autonomous premium-audit agent for US commercial insurance: data validation, classification-error detection, dynamic regulatory compliance, risk-exposure analysis. |
 | **[quantization-cache-amplification](https://huggingface.co/datasets/mkvn/quantization-cache-amplification)** | Codec, routing traces and benchmarks behind the MoE paper above. |
 
@@ -66,7 +66,7 @@ sub-2-bit codec, raw OLMoE-1B-7B routing traces, and every measurement artefact 
 - **[LiteLLM](https://github.com/BerriAI/litellm)** — [#10548](https://github.com/BerriAI/litellm/pull/10548) *merged*: Gemini 2.5 Pro max_tokens fix · [#17298](https://github.com/BerriAI/litellm/pull/17298): proposed Claude Code provider integration.
 - **[freqtrade](https://github.com/freqtrade/freqtrade)** — merged: [#6545](https://github.com/freqtrade/freqtrade/pull/6545) partial exit using average price, [#6540](https://github.com/freqtrade/freqtrade/pull/6540), [#6432](https://github.com/freqtrade/freqtrade/pull/6432).
 - **[NostalgiaForInfinity](https://github.com/iterativv/NostalgiaForInfinity)** — 7 merged PRs on leverage handling, trailing stops and backtesting.
-- **[openai/codex](https://github.com/openai/codex)** — [running my own fork](https://github.com/mkavinkumar1/codex) and taking part in issue discussions.
+- **[openai/codex](https://github.com/openai/codex)** — [running my own fork](https://github.com/m-kvn/codex) and taking part in issue discussions.
 
 ---
 
@@ -99,11 +99,11 @@ sub-2-bit codec, raw OLMoE-1B-7B routing traces, and every measurement artefact 
 
 ### Contribution stats
 
-<a href="https://github.com/mkavinkumar1"><img align="center" width="49%" src="./header.svg" alt="Overview" /></a>
-<a href="https://github.com/mkavinkumar1"><img align="center" width="49%" src="./iso_calendar.svg" alt="Isometric contribution calendar" /></a>
+<a href="https://github.com/m-kvn"><img align="center" width="49%" src="./header.svg" alt="Overview" /></a>
+<a href="https://github.com/m-kvn"><img align="center" width="49%" src="./iso_calendar.svg" alt="Isometric contribution calendar" /></a>
 
-<a href="https://github.com/mkavinkumar1"><img align="center" width="49%" src="./languages.svg" alt="Most used languages" /></a>
-<a href="https://github.com/mkavinkumar1"><img align="center" width="49%" src="./repositories.svg" alt="Repositories" /></a>
+<a href="https://github.com/m-kvn"><img align="center" width="49%" src="./languages.svg" alt="Most used languages" /></a>
+<a href="https://github.com/m-kvn"><img align="center" width="49%" src="./repositories.svg" alt="Repositories" /></a>
 
 <sub>Panels regenerate daily via <a href="https://github.com/lowlighter/metrics">lowlighter/metrics</a>.</sub>
 
