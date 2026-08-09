@@ -97,10 +97,17 @@ sub-2-bit codec, raw OLMoE-1B-7B routing traces, and every measurement artefact 
 
 ---
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mkavinkumar1&show_icons=true&hide_border=true&theme=tokyonight" alt="GitHub Stats" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mkavinkumar1&layout=compact&hide_border=true&theme=tokyonight" alt="Top Languages" height="150" />
-</p>
+### Contribution stats
+
+<a href="https://github.com/mkavinkumar1"><img align="center" width="49%" src="./header.svg" alt="Overview" /></a>
+<a href="https://github.com/mkavinkumar1"><img align="center" width="49%" src="./iso_calendar.svg" alt="Isometric contribution calendar" /></a>
+
+<a href="https://github.com/mkavinkumar1"><img align="center" width="49%" src="./languages_activity.svg" alt="Languages and recent activity" /></a>
+<a href="https://github.com/mkavinkumar1"><img align="center" width="49%" src="./repositories.svg" alt="Repositories" /></a>
+
+<a href="https://github.com/mkavinkumar1"><img align="center" width="49%" src="./habits_achievements.svg" alt="Coding habits and achievements" /></a>
+
+<sub>Panels regenerate daily via <a href="https://github.com/lowlighter/metrics">lowlighter/metrics</a>.</sub>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/kavinkumar-m-76a11313b">LinkedIn</a> ·
