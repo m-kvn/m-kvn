@@ -16,6 +16,20 @@
 
 ---
 
+### 📄 Research
+
+**[Quantization as Cache Amplification: Trillion-Parameter Mixture-of-Experts Inference on a Commodity Laptop](https://huggingface.co/datasets/mkvn/quantization-cache-amplification)**
+
+Weight quantization is usually sold as footprint reduction. This paper shows that for
+offloaded Mixture-of-Experts inference the real lever is *cache capacity*: an LRU expert
+cache hits **exactly 0%** whenever it holds fewer than the `k·L` expert slots a single
+token touches — a phase transition measured on real routing traces — and quantization is
+what carries a system across it.
+
+Everything was measured on one laptop (RTX A500, 4 GB VRAM; 32 GB DRAM; consumer NVMe).
+Includes the sub-2-bit codec, the raw OLMoE routing traces, and every measurement artefact
+behind the numbers.
+
 ### 🔥 My Top Projects
 
 | Project | Description |
