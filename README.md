@@ -102,10 +102,8 @@ sub-2-bit codec, raw OLMoE-1B-7B routing traces, and every measurement artefact 
 <a href="https://github.com/mkavinkumar1"><img align="center" width="49%" src="./header.svg" alt="Overview" /></a>
 <a href="https://github.com/mkavinkumar1"><img align="center" width="49%" src="./iso_calendar.svg" alt="Isometric contribution calendar" /></a>
 
-<a href="https://github.com/mkavinkumar1"><img align="center" width="49%" src="./languages_activity.svg" alt="Languages and recent activity" /></a>
+<a href="https://github.com/mkavinkumar1"><img align="center" width="49%" src="./languages.svg" alt="Most used languages" /></a>
 <a href="https://github.com/mkavinkumar1"><img align="center" width="49%" src="./repositories.svg" alt="Repositories" /></a>
-
-<a href="https://github.com/mkavinkumar1"><img align="center" width="49%" src="./habits_achievements.svg" alt="Coding habits and achievements" /></a>
 
 <sub>Panels regenerate daily via <a href="https://github.com/lowlighter/metrics">lowlighter/metrics</a>.</sub>
 
