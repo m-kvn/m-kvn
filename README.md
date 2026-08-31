@@ -1,6 +1,12 @@
 <!-- Profile README for m-kvn -->
 
-<h1 align="center">Kavinkumar M</h1>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1A1A1A,60:D97757,100:F0B27A&height=190&section=header&text=Kavinkumar%20M&fontSize=52&fontColor=FFFFFF&fontAlignY=38&desc=AI%20Engineer%20%C2%B7%20Autonomous%20Agents%20%C2%B7%20LLM%20Systems&descAlignY=58&descSize=17&animation=fadeIn" width="100%" alt="Kavinkumar M — AI Engineer" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=19&duration=2800&pause=900&color=D97757&center=true&vCenter=true&width=760&lines=AI+Engineer+%40+NeuralMetrics;Building+CHRIS+%E2%80%94+an+autonomous+premium-audit+agent;Python+%C2%B7+FastAPI+%C2%B7+Claude+API+%C2%B7+MCP+%C2%B7+AWS;Trillion-parameter+MoE+inference+on+a+4+GB+laptop" alt="AI Engineer @ NeuralMetrics · Building CHRIS · Python, FastAPI, Claude API, MCP, AWS" />
+</p>
 
 <p align="center">
   <b>AI Engineer @ NeuralMetrics</b> · Python · FastAPI · LLM systems<br/>
@@ -12,6 +18,7 @@
   <a href="https://huggingface.co/mkvn"><img src="https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-FFD21E?style=flat-square&logoColor=black" alt="Hugging Face" /></a>
   <a href="https://doi.org/10.5281/zenodo.21856981"><img src="https://img.shields.io/badge/DOI-10.5281%2Fzenodo.21856981-1682D4?style=flat-square" alt="Zenodo DOI" /></a>
   <a href="mailto:mkavinkumar1@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
+  <img src="https://komarev.com/ghpvc/?username=m-kvn&style=flat-square&color=D97757&label=Profile+views" alt="Profile views" />
 </p>
 
 ---
@@ -112,6 +119,14 @@ sub-2-bit codec, raw OLMoE-1B-7B routing traces, and every measurement artefact 
 
 ### Contribution stats
 
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=m-kvn&theme=dark&hide_border=true&border_radius=6&date_format=j%20M%5B%20Y%5D&ring=D97757&fire=D97757&currStreakLabel=D97757" />
+    <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=m-kvn&theme=default&hide_border=true&border_radius=6&date_format=j%20M%5B%20Y%5D&ring=D97757&fire=D97757&currStreakLabel=D97757" />
+    <img width="72%" src="https://streak-stats.demolab.com?user=m-kvn&theme=default&hide_border=true&border_radius=6&date_format=j%20M%5B%20Y%5D&ring=D97757&fire=D97757&currStreakLabel=D97757" alt="Contribution streak" />
+  </picture>
+</p>
+
 <a href="https://github.com/m-kvn"><img align="center" width="49%" src="./header.svg" alt="Overview" /></a>
 <a href="https://github.com/m-kvn"><img align="center" width="49%" src="./iso_calendar.svg" alt="Isometric contribution calendar" /></a>
 
@@ -126,3 +141,5 @@ sub-2-bit codec, raw OLMoE-1B-7B routing traces, and every measurement artefact 
   <a href="https://zenodo.org/records/21856981">Zenodo</a> ·
   <a href="mailto:mkavinkumar1@gmail.com">mkavinkumar1@gmail.com</a>
 </p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:F0B27A,40:D97757,100:1A1A1A&height=110&section=footer" width="100%" alt="" />
