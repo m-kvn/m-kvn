@@ -119,14 +119,6 @@ sub-2-bit codec, raw OLMoE-1B-7B routing traces, and every measurement artefact 
 
 ### Contribution stats
 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=m-kvn&theme=dark&hide_border=true&border_radius=6&date_format=j%20M%5B%20Y%5D&ring=D97757&fire=D97757&currStreakLabel=D97757&disable_animations=true" />
-    <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=m-kvn&theme=default&hide_border=true&border_radius=6&date_format=j%20M%5B%20Y%5D&ring=D97757&fire=D97757&currStreakLabel=D97757&disable_animations=true" />
-    <img width="72%" src="https://streak-stats.demolab.com?user=m-kvn&theme=default&hide_border=true&border_radius=6&date_format=j%20M%5B%20Y%5D&ring=D97757&fire=D97757&currStreakLabel=D97757&disable_animations=true" alt="Contribution streak" />
-  </picture>
-</p>
-
 <a href="https://github.com/m-kvn"><img align="center" width="49%" src="./header.svg" alt="Overview" /></a>
 <a href="https://github.com/m-kvn"><img align="center" width="49%" src="./iso_calendar.svg" alt="Isometric contribution calendar" /></a>
 
