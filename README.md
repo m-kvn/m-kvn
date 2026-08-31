@@ -37,7 +37,22 @@ I build AI systems that replace work people shouldn't have to do by hand.
 ### Research
 
 **[Quantization as Cache Amplification: Trillion-Parameter Mixture-of-Experts Inference on a Commodity Laptop](https://doi.org/10.5281/zenodo.21856981)**
-📄 [Paper (Zenodo, DOI 10.5281/zenodo.21856981)](https://zenodo.org/records/21856981) · 📊 [Traces, code & artefacts (Hugging Face)](https://huggingface.co/datasets/mkvn/quantization-cache-amplification)
+
+<p>
+  <a href="https://zenodo.org/records/21856981"><img src="https://img.shields.io/badge/Paper-Zenodo%20PDF-1682D4?style=flat-square" alt="Paper (Zenodo)" /></a>
+  <a href="https://doi.org/10.5281/zenodo.21856981"><img src="https://img.shields.io/badge/DOI-10.5281%2Fzenodo.21856981-1682D4?style=flat-square" alt="DOI 10.5281/zenodo.21856981" /></a>
+  <a href="https://huggingface.co/datasets/mkvn/quantization-cache-amplification"><img src="https://img.shields.io/badge/%F0%9F%A4%97%20Artefacts-traces%2C%20code%20%26%20codec-FFD21E?style=flat-square" alt="Artefacts on Hugging Face" /></a>
+</p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/m-kvn/m-kvn/main/research_cache_dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/m-kvn/m-kvn/main/research_cache_light.svg" />
+    <img width="100%" src="https://raw.githubusercontent.com/m-kvn/m-kvn/main/research_cache_light.svg" alt="Left: expert-cache hit rate vs cache capacity — LRU hits exactly 0.0% at every capacity below the k·L per-token working set, while a popularity-pinned cache reaches 22.9% at 10% capacity. Right: resident expert slots for a projected 1.05 T-parameter MoE under a 294 GB budget — 1.16% of slots at bf16, rising to 12.42% at 1.5 bits." />
+  </picture>
+</p>
+
+<sub>Left: measured on a 49,152-token OLMoE-1B-7B routing trace. Right: projected to a 1.05 T-parameter MoE under a 294 GB host budget. Plotted from <code>results/*.json</code> in the artefact release.</sub>
 
 Weight quantization is usually sold as footprint reduction. This paper shows that for
 offloaded Mixture-of-Experts inference the real lever is *cache capacity*: an LRU expert
