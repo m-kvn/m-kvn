@@ -1,7 +1,7 @@
 <!-- Profile README for m-kvn -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1A1A1A,60:D97757,100:F0B27A&height=190&section=header&text=Kavinkumar%20M&fontSize=52&fontColor=FFFFFF&fontAlignY=38&desc=AI%20Engineer%20%C2%B7%20Autonomous%20Agents%20%C2%B7%20LLM%20Systems&descAlignY=58&descSize=17&animation=fadeIn" width="100%" alt="Kavinkumar M — AI Engineer" />
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:0D1117,50:A03D22,100:D97757&height=190&section=header&text=Kavinkumar%20M&fontSize=50&fontColor=FFFFFF&fontAlignY=38&desc=AI%20Engineer%20%C2%B7%20Autonomous%20Agents%20%C2%B7%20LLM%20Systems&descAlignY=57&descSize=17&animation=none" width="100%" alt="Kavinkumar M — AI Engineer" />
 </p>
 
 <p align="center">
@@ -142,4 +142,4 @@ sub-2-bit codec, raw OLMoE-1B-7B routing traces, and every measurement artefact 
   <a href="mailto:mkavinkumar1@gmail.com">mkavinkumar1@gmail.com</a>
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:F0B27A,40:D97757,100:1A1A1A&height=110&section=footer" width="100%" alt="" />
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:D97757,50:A03D22,100:0D1117&height=110&section=footer&animation=none" width="100%" alt="" />
