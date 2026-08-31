@@ -91,9 +91,22 @@ sub-2-bit codec, raw OLMoE-1B-7B routing traces, and every measurement artefact 
 
 ### Certifications
 
-**Anthropic** — Building with the Claude API · Claude Code in Action · Model Context Protocol: Advanced Topics · Introduction to agent skills · Introduction to subagents · Claude with Amazon Bedrock · Claude on Google Cloud
+<p>
+  <img src="https://cdn.simpleicons.org/anthropic/D97757" height="18" align="top" alt="Anthropic" />&nbsp;<b>Anthropic</b><br/>
+  <a href="https://verify.skilljar.com/c/yvwtrnyfoki8">Building with the Claude API</a> ·
+  <a href="https://verify.skilljar.com/c/8q25r73fhfib">Claude Code in Action</a> ·
+  <a href="https://verify.skilljar.com/c/r7wuvekb3aa9">Model Context Protocol: Advanced Topics</a> ·
+  <a href="https://verify.skilljar.com/c/ashmtpsoee6v">Introduction to agent skills</a> ·
+  <a href="https://verify.skilljar.com/c/zjazzxmsn28f">Introduction to subagents</a> ·
+  <a href="https://verify.skilljar.com/c/n4zc264nzxyj">Claude with Amazon Bedrock</a> ·
+  <a href="https://verify.skilljar.com/c/t6r2tv6iia5x">Claude on Google Cloud</a>
+</p>
 
-**Cisco** — [Python Essentials 1](https://www.credly.com/badges/7c05cc21-016a-4b37-a626-88fb131c8ea0/public_url) · [Python Essentials 2](https://www.credly.com/badges/b9c1222a-3b28-4ab5-b667-bf455e3514b0/public_url)
+<p>
+  <img src="https://cdn.simpleicons.org/cisco/1BA0D7" height="18" align="top" alt="Cisco" />&nbsp;<b>Cisco</b><br/>
+  <a href="https://www.credly.com/badges/7c05cc21-016a-4b37-a626-88fb131c8ea0/public_url">Python Essentials 1</a> ·
+  <a href="https://www.credly.com/badges/b9c1222a-3b28-4ab5-b667-bf455e3514b0/public_url">Python Essentials 2</a>
+</p>
 
 ---
 
