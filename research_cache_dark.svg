@@ -1,0 +1,99 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 880 424" width="880" height="424" font-family="system-ui,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" role="img" aria-label="Expert-cache hit rate versus cache capacity, and resident expert slots after quantization">
+<style>.tick{font-variant-numeric:tabular-nums}</style>
+<text x="0.0" y="38.0" font-size="25.0" fill="#ffffff" font-weight="600" text-anchor="start">0.0%</text>
+<text x="0.0" y="58.0" font-size="11.0" fill="#c3c2b7" font-weight="400" text-anchor="start">LRU hit rate at every capacity</text>
+<text x="0.0" y="72.0" font-size="11.0" fill="#898781" font-weight="400" text-anchor="start">below the k·L working set</text>
+<text x="225.0" y="38.0" font-size="25.0" fill="#ffffff" font-weight="600" text-anchor="start">22.9%</text>
+<text x="225.0" y="58.0" font-size="11.0" fill="#c3c2b7" font-weight="400" text-anchor="start">Popularity-pinned cache</text>
+<text x="225.0" y="72.0" font-size="11.0" fill="#898781" font-weight="400" text-anchor="start">at 10% capacity</text>
+<text x="450.0" y="38.0" font-size="25.0" fill="#ffffff" font-weight="600" text-anchor="start">10.7×</text>
+<text x="450.0" y="58.0" font-size="11.0" fill="#c3c2b7" font-weight="400" text-anchor="start">More resident experts at</text>
+<text x="450.0" y="72.0" font-size="11.0" fill="#898781" font-weight="400" text-anchor="start">1.5 bits, same 294 GB budget</text>
+<text x="675.0" y="38.0" font-size="25.0" fill="#ffffff" font-weight="600" text-anchor="start">12.17</text>
+<text x="675.0" y="58.0" font-size="11.0" fill="#c3c2b7" font-weight="400" text-anchor="start">WikiText-2 PPL at 2.01 bits</text>
+<text x="675.0" y="72.0" font-size="11.0" fill="#898781" font-weight="400" text-anchor="start">(bf16 reference: 8.11)</text>
+<line x1="0" y1="96" x2="880" y2="96" stroke="#2c2c2a" stroke-width="1" />
+<text x="0.0" y="124.0" font-size="13.0" fill="#ffffff" font-weight="600" text-anchor="start">Expert-cache hit rate vs cache capacity</text>
+<text x="0.0" y="140.0" font-size="10.5" fill="#898781" font-weight="400" text-anchor="start">OLMoE-1B-7B routing trace, 49,152 tokens · 16 layers × 64 experts, top-8</text>
+<rect x="66.0" y="152.0" width="181.6" height="192.0" fill="#2c2c2a" opacity="0.9" />
+<line x1="66.0" y1="344.0" x2="424.0" y2="344.0" stroke="#383835" stroke-width="1" />
+<text x="58.0" y="347.5" font-size="10.5" fill="#898781" font-weight="400" text-anchor="end" class="tick">0%</text>
+<line x1="66.0" y1="296.0" x2="424.0" y2="296.0" stroke="#2c2c2a" stroke-width="1" />
+<text x="58.0" y="299.5" font-size="10.5" fill="#898781" font-weight="400" text-anchor="end" class="tick">25%</text>
+<line x1="66.0" y1="248.0" x2="424.0" y2="248.0" stroke="#2c2c2a" stroke-width="1" />
+<text x="58.0" y="251.5" font-size="10.5" fill="#898781" font-weight="400" text-anchor="end" class="tick">50%</text>
+<line x1="66.0" y1="200.0" x2="424.0" y2="200.0" stroke="#2c2c2a" stroke-width="1" />
+<text x="58.0" y="203.5" font-size="10.5" fill="#898781" font-weight="400" text-anchor="end" class="tick">75%</text>
+<line x1="66.0" y1="152.0" x2="424.0" y2="152.0" stroke="#2c2c2a" stroke-width="1" />
+<text x="58.0" y="155.5" font-size="10.5" fill="#898781" font-weight="400" text-anchor="end" class="tick">100%</text>
+<text x="85.7" y="361.0" font-size="10.5" fill="#898781" font-weight="400" text-anchor="middle" class="tick">2</text>
+<text x="166.7" y="361.0" font-size="10.5" fill="#898781" font-weight="400" text-anchor="middle" class="tick">5</text>
+<text x="227.9" y="361.0" font-size="10.5" fill="#898781" font-weight="400" text-anchor="middle" class="tick">10</text>
+<text x="289.2" y="361.0" font-size="10.5" fill="#898781" font-weight="400" text-anchor="middle" class="tick">20</text>
+<text x="350.4" y="361.0" font-size="10.5" fill="#898781" font-weight="400" text-anchor="middle" class="tick">40</text>
+<text x="411.7" y="361.0" font-size="10.5" fill="#898781" font-weight="400" text-anchor="middle" class="tick">80</text>
+<text x="245.0" y="378.0" font-size="10.5" fill="#c3c2b7" font-weight="400" text-anchor="middle">cache capacity (% of the 1,024 expert slots, log scale)</text>
+<line x1="247.6" y1="152.0" x2="247.6" y2="344.0" stroke="#898781" stroke-width="1" stroke-dasharray="4 3" />
+<text x="253.6" y="162.0" font-size="10.5" fill="#c3c2b7" font-weight="400" text-anchor="start">k·L working set (12.5%)</text>
+<polyline points="85.72,344.00 166.68,344.00 227.92,344.00 247.64,295.42 263.75,272.96 308.88,251.07 350.41,217.28 386.23,183.49 411.65,159.68" fill="none" stroke="#3987e5" stroke-width="2" stroke-linejoin="round" stroke-linecap="round" />
+<polyline points="85.72,332.10 166.68,318.08 227.92,300.03 247.64,291.97 263.75,284.48 308.88,257.41 350.41,224.19 386.23,189.25 411.65,163.71" fill="none" stroke="#d95926" stroke-width="2" stroke-linejoin="round" stroke-linecap="round" />
+<circle cx="85.72" cy="344.00" r="4" fill="#3987e5" stroke="#0d1117" stroke-width="2" />
+<circle cx="166.68" cy="344.00" r="4" fill="#3987e5" stroke="#0d1117" stroke-width="2" />
+<circle cx="227.92" cy="344.00" r="4" fill="#3987e5" stroke="#0d1117" stroke-width="2" />
+<circle cx="247.64" cy="295.42" r="4" fill="#3987e5" stroke="#0d1117" stroke-width="2" />
+<circle cx="263.75" cy="272.96" r="4" fill="#3987e5" stroke="#0d1117" stroke-width="2" />
+<circle cx="308.88" cy="251.07" r="4" fill="#3987e5" stroke="#0d1117" stroke-width="2" />
+<circle cx="350.41" cy="217.28" r="4" fill="#3987e5" stroke="#0d1117" stroke-width="2" />
+<circle cx="386.23" cy="183.49" r="4" fill="#3987e5" stroke="#0d1117" stroke-width="2" />
+<circle cx="411.65" cy="159.68" r="4" fill="#3987e5" stroke="#0d1117" stroke-width="2" />
+<circle cx="85.72" cy="332.10" r="4" fill="#d95926" stroke="#0d1117" stroke-width="2" />
+<circle cx="166.68" cy="318.08" r="4" fill="#d95926" stroke="#0d1117" stroke-width="2" />
+<circle cx="227.92" cy="300.03" r="4" fill="#d95926" stroke="#0d1117" stroke-width="2" />
+<circle cx="247.64" cy="291.97" r="4" fill="#d95926" stroke="#0d1117" stroke-width="2" />
+<circle cx="263.75" cy="284.48" r="4" fill="#d95926" stroke="#0d1117" stroke-width="2" />
+<circle cx="308.88" cy="257.41" r="4" fill="#d95926" stroke="#0d1117" stroke-width="2" />
+<circle cx="350.41" cy="224.19" r="4" fill="#d95926" stroke="#0d1117" stroke-width="2" />
+<circle cx="386.23" cy="189.25" r="4" fill="#d95926" stroke="#0d1117" stroke-width="2" />
+<circle cx="411.65" cy="163.71" r="4" fill="#d95926" stroke="#0d1117" stroke-width="2" />
+<text x="74.0" y="167.0" font-size="10.5" fill="#c3c2b7" font-weight="400" text-anchor="start">cache below k·L:</text>
+<text x="74.0" y="181.0" font-size="10.5" fill="#ffffff" font-weight="600" text-anchor="start">LRU hits 0.0%</text>
+<text x="220.9" y="296.0" font-size="11.0" fill="#ffffff" font-weight="600" text-anchor="end">22.9%</text>
+<line x1="0.0" y1="392.5" x2="16.0" y2="392.5" stroke="#3987e5" stroke-width="2" stroke-linecap="round" />
+<circle cx="8.0" cy="392.5" r="4" fill="#3987e5" stroke="#0d1117" stroke-width="2" />
+<text x="23.0" y="396.0" font-size="10.5" fill="#c3c2b7" font-weight="400" text-anchor="start">LRU</text>
+<line x1="61.8" y1="392.5" x2="77.8" y2="392.5" stroke="#d95926" stroke-width="2" stroke-linecap="round" />
+<circle cx="69.8" cy="392.5" r="4" fill="#d95926" stroke="#0d1117" stroke-width="2" />
+<text x="84.8" y="396.0" font-size="10.5" fill="#c3c2b7" font-weight="400" text-anchor="start">Popularity-pinned (static frequency)</text>
+<text x="500.0" y="124.0" font-size="13.0" fill="#ffffff" font-weight="600" text-anchor="start">Resident expert slots after quantization</text>
+<text x="500.0" y="140.0" font-size="10.5" fill="#898781" font-weight="400" text-anchor="start">Projected 1.05 T-param MoE, 20,480 slots · 294 GB host budget</text>
+<text x="500.0" y="154.0" font-size="10.5" fill="#c3c2b7" font-weight="400" text-anchor="start">1.5 bits keeps 10.7× more experts resident than bf16</text>
+<line x1="556.0" y1="344.0" x2="878.0" y2="344.0" stroke="#383835" stroke-width="1" />
+<text x="548.0" y="347.5" font-size="10.5" fill="#898781" font-weight="400" text-anchor="end" class="tick">0%</text>
+<line x1="556.0" y1="303.5" x2="878.0" y2="303.5" stroke="#2c2c2a" stroke-width="1" />
+<text x="548.0" y="307.0" font-size="10.5" fill="#898781" font-weight="400" text-anchor="end" class="tick">5%</text>
+<line x1="556.0" y1="263.1" x2="878.0" y2="263.1" stroke="#2c2c2a" stroke-width="1" />
+<text x="548.0" y="266.6" font-size="10.5" fill="#898781" font-weight="400" text-anchor="end" class="tick">10%</text>
+<line x1="556.0" y1="222.6" x2="878.0" y2="222.6" stroke="#2c2c2a" stroke-width="1" />
+<text x="548.0" y="226.1" font-size="10.5" fill="#898781" font-weight="400" text-anchor="end" class="tick">15%</text>
+<line x1="556.0" y1="182.2" x2="878.0" y2="182.2" stroke="#2c2c2a" stroke-width="1" />
+<text x="548.0" y="185.7" font-size="10.5" fill="#898781" font-weight="400" text-anchor="end" class="tick">20%</text>
+<path d="M570.83 344.00 V338.61 a4.00 4.00 0 0 1 4.00 -4.00 H590.83 a4.00 4.00 0 0 1 4.00 4.00 V344.00 Z" fill="#898781" />
+<text x="582.8" y="361.0" font-size="10.5" fill="#898781" font-weight="400" text-anchor="middle" class="tick">bf16</text>
+<text x="582.8" y="326.6" font-size="11.0" fill="#ffffff" font-weight="600" text-anchor="middle">1.16%</text>
+<path d="M624.50 344.00 V310.38 a4.00 4.00 0 0 1 4.00 -4.00 H644.50 a4.00 4.00 0 0 1 4.00 4.00 V344.00 Z" fill="#898781" />
+<text x="636.5" y="361.0" font-size="10.5" fill="#898781" font-weight="400" text-anchor="middle" class="tick">4</text>
+<path d="M678.17 344.00 V297.76 a4.00 4.00 0 0 1 4.00 -4.00 H698.17 a4.00 4.00 0 0 1 4.00 4.00 V344.00 Z" fill="#898781" />
+<text x="690.2" y="361.0" font-size="10.5" fill="#898781" font-weight="400" text-anchor="middle" class="tick">3</text>
+<path d="M731.83 344.00 V272.67 a4.00 4.00 0 0 1 4.00 -4.00 H751.83 a4.00 4.00 0 0 1 4.00 4.00 V344.00 Z" fill="#3987e5" />
+<text x="743.8" y="361.0" font-size="10.5" fill="#898781" font-weight="400" text-anchor="middle" class="tick">2</text>
+<path d="M785.50 344.00 V247.51 a4.00 4.00 0 0 1 4.00 -4.00 H805.50 a4.00 4.00 0 0 1 4.00 4.00 V344.00 Z" fill="#3987e5" />
+<text x="797.5" y="361.0" font-size="10.5" fill="#898781" font-weight="400" text-anchor="middle" class="tick">1.5</text>
+<text x="797.5" y="235.5" font-size="11.0" fill="#ffffff" font-weight="600" text-anchor="middle">12.42%</text>
+<path d="M839.17 344.00 V197.35 a4.00 4.00 0 0 1 4.00 -4.00 H859.17 a4.00 4.00 0 0 1 4.00 4.00 V344.00 Z" fill="#3987e5" />
+<text x="851.2" y="361.0" font-size="10.5" fill="#898781" font-weight="400" text-anchor="middle" class="tick">1</text>
+<text x="717.0" y="378.0" font-size="10.5" fill="#c3c2b7" font-weight="400" text-anchor="middle">bits per weight</text>
+<rect x="500.0" y="384.5" width="10" height="10" rx="2" fill="#3987e5" />
+<text x="516.0" y="396.0" font-size="10.5" fill="#c3c2b7" font-weight="400" text-anchor="start">Fits in 294 GB</text>
+<rect x="618.4" y="384.5" width="10" height="10" rx="2" fill="#898781" />
+<text x="634.4" y="396.0" font-size="10.5" fill="#c3c2b7" font-weight="400" text-anchor="start">Does not fit</text>
+</svg>
