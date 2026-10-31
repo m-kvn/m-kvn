@@ -27,7 +27,7 @@
 
 I build AI systems that replace work people shouldn't have to do by hand.
 
-- 6+ years shipping production Python — now building autonomous agents end to end.
+- 7+ years shipping production Python — now building autonomous agents end to end.
 - At **NeuralMetrics**: CHRIS validates audit data, detects the classification errors that move premium, adapts to compliance rules that shift by state and year, and analyzes risk exposure.
 - Day-to-day: FastAPI, PostgreSQL, the Claude API, Model Context Protocol, and AWS (Lambda, Bedrock, ECS/ECR, S3, RDS).
 - Interested in agent architectures, MoE inference systems, applied NLP, and InsurTech.
